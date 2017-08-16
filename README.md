@@ -4,5 +4,5 @@ The demo opens 3 tabs: Google, Amazon and Barnes and Nobles. In each of them sep
 
 In IntelliJ you will need to define:
 
-PERFECTO_CLOUD: xyz.perfectomobile.com
+PERFECTO_CLOUD: xyz.perfectomobile.com <br/>
 PERFECTO_CLOUD_SECURITY_TOKEN: get it here: http://developers.perfectomobile.com/display/PD/Security+Token
