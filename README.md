@@ -6,6 +6,9 @@ Demo Video: http://bit.ly/2uOweXu
 
 The demo opens 3 tabs: Google, Amazon and Barnes and Nobles. In each of them separately it does a search, and lastly it rotates through all 3.
 
+The key file is here: https://github.com/AmirAtPerfecto/MultiTabDemo/blob/master/src/main/java/newTest/NewTestClass.java
+
+
 In IntelliJ you will need to define:
 
 PERFECTO_CLOUD: xyz.perfectomobile.com <br/>
